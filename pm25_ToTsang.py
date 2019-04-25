@@ -1,4 +1,8 @@
-##################Change These####################
+##################################################
+
+# Link to the resultant Casecade Story Map: https://arcg.is/4Dnyz
+
+##################################################
 path = r"C:\Users\totsang\Desktop\FPJ_test_4\FPJ_test_4"
 path_name = r"\FPJ_test_4.gdb"
 path_to_data = r"Z:\FPJ_data_TeoTsang"
