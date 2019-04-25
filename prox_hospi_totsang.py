@@ -1,4 +1,6 @@
-##################Change These####################
+##################################################
+#Link to the resultant Esri Story Map: https://arcg.is/0XeHf9
+##################################################
 path = r"C:\Users\totsang\Desktop\test"
 path_name = r"\lab_3_test_3.gdb"
 path_to_data = r"C:\Users\totsang\Desktop\data"
