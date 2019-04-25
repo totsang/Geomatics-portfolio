@@ -1,3 +1,5 @@
+#Link to resultant Esri Story Map: https://arcg.is/jy0T1
+
 #Task 1
 #Create new work space
 out_folder_path = r"Z:\Lab_2\Lab_2\Lab_2_a"
