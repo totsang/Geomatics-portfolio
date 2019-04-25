@@ -1,5 +1,4 @@
-#Task 4
-#Question 1
+#Task 1
 #Create new work space
 out_folder_path = r"Z:\Lab_2\Lab_2\Lab_2_a"
 out_name = "Lab2.gdb"
@@ -16,7 +15,7 @@ arcpy.management.GetCount(intersect_output)
 
 
 
-#Question 2
+#Task 2
 #Select workspace
 arcpy.env.workspace = r"Z:\Lab_2\Lab_2\Lab_2_a\Lab_2.gdb"
 #Select property crime in 2016
@@ -48,7 +47,7 @@ arcpy.management.GetCount(output)
 
 
 
-#Question 3
+#Task 3
 #Select workspace
 arcpy.env.workspace = r"Z:\Lab_2\Lab_2\Lab_2_a\Lab_2.gdb"
 #Select drug, liquor, and disorder crime
@@ -85,7 +84,7 @@ arcpy.management.GetCount(output)
 
 
 
-#Question 4
+#Task 4
 #Select workspace
 arcpy.env.workspace = r"Z:\Lab_2\Lab_2\Lab_2_a\Lab_2.gdb"
 #Select property crime in 2017
@@ -108,7 +107,7 @@ arcpy.management.GetCount(output)
 
 
 
-#Question 5
+#Task 5
 #drug, liquor, and disorder crime has already been selected previously
 #Select drug, liquor, and disorder crime in 2015
 in_feature = "drug_liq_dis"
